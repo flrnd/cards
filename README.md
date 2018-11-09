@@ -1,2 +1,2 @@
 # cards
-Cards game in go
+Cards game in go.
